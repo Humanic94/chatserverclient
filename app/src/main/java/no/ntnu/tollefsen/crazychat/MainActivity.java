@@ -50,7 +50,7 @@ import no.ntnu.tollefsen.crazychat.domain.User;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
- //test
+ 
 
     public static final int PERMISSIONS_REQUEST_READ_CONTACTS = 100;
     public static final int REQUEST_CODE_NEW_MESSAGE = 1000;
